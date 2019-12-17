@@ -37,6 +37,8 @@ Prefixo de tabela (se quiser rodar mais de um WordPress no mesmo banco de dados)
 
 # Seja bem-vindo ao Wordpress
 
+Tudo preparado, vamos dar inicio a instalação do plugin e do build da aplicação
+
 # Instalando o plugin ACF (Advanced Custom Fields)
 
 01-Após acessar a pagina principal da sua aplicação WP você vera que no menu superior da pagina possui algumas informações, na onde esta descrito o nome do seu site, passe o mouse por cima e clique na opção painel.
