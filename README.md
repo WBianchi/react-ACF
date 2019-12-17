@@ -2,6 +2,19 @@
 
 Execução do projeto 
 
+# Subindo o projeto no git
+
+01-Primeiro vá no github e crie seu repositório. Clique no símbolo de + no topo da tela e depois em New Repository. Preencha um nome e uma descrição para o projeto e clique em Create repository.
+
+02-Navegue até a pasta do seu repositório e dentro dela use o comando git init, isso vai transformar a sua pasta em um projeto git (Não vai mudar nada).
+
+03-Agora precisamos linkar seu projeto com o seu repositório no github, pra isso você vai usar o comando git remote add origin https://github.com/user/repo.git. Você vai ter que mudar o link para o link do seu projeto, um projeto meu por exemplo é https://github.com/userr/nome-do-repo.git, use o link do seu projeto.
+
+04-Pronto agora é só subir seus arquivos pro github. Use o comando git add . para adicionar todos os arquivos do projeto. Crie um commit inicial git commit -m "primeiro commit" e depois dê o push git push origin master.
+
+05-E por fim depois dê uma olhada em como criar o seu arquivo .gitignore ele serve para fazer o git ignorar algumas pastas que você não precisa subir para o github (No caso do javascript a pasta node_modules e em outros projetos as pastas com outras libs que só são usadas localmente e etc).
+
+
 # Baixando o Wordpress
 
 01-Baixe a ultima versão do wordpress (https://br.wordpress.org/download/)
@@ -31,7 +44,11 @@ Prefixo de tabela (se quiser rodar mais de um WordPress no mesmo banco de dados)
 02-Seja bem-vindo ao painel administrativo do Wordpress... No menu lateral esquerdo você vera que possui varias opções, vá até plugin e clique em adicionar plugin, você sera redirecionado para uma pagina onde podera instalar o plugin ACF, basta digitar o nome do plugin no campo busca, instalar, ativar e pronto, seu plugin esta ativo.
 
 
-# Subindo o projeto no git
+
+
+
+
+
 
 
 
