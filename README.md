@@ -45,6 +45,11 @@ Tudo preparado, vamos dar inicio a instalação do plugin e do build da aplicaç
 
 02-Seja bem-vindo ao painel administrativo do Wordpress... No menu lateral esquerdo você vera que possui varias opções, vá até plugin e clique em adicionar plugin, você sera redirecionado para uma pagina onde podera instalar o plugin ACF, basta digitar o nome do plugin no campo busca, instalar, ativar e pronto, seu plugin esta ativo.
 
+# Instalando o plugin ACF (Advanced Custom Fields)
+
+
+
+
 
 
 
