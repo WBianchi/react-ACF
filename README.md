@@ -47,6 +47,23 @@ Tudo preparado, vamos dar inicio a instalação do plugin e do build da aplicaç
 
 # Instalando o plugin ACF (Advanced Custom Fields)
 
+01-No menu lateral a direita você vera uma serie de menus disponiveis, basta acessar o link plugins, adicionar novo plugin, e na barra de procurar você digitara ACF (ADVANCED CUSTOM FIELDS)
+
+02-Clique em instalar e adicione o plugin a sua aplicação
+
+# Instalando o GraphQL para o Build
+
+01 - Clone ou baixe o arquivo zip desses três repositorios
+  . https://github.com/wp-graphql/wp-graphiql
+  . https://github.com/wp-graphql/wp-graphiql.git
+  . https://github.com/wp-graphql/wp-graphql-acf.git
+  
+02 - Vá até o seu painel wp-admin e no menu lateral clique em plugins e adicionar novo, agora é só instalar o seus plugins
+  
+  
+# Colocando a mão na massa
+
+01 - 
 
 
 
